@@ -54,5 +54,11 @@
     "name": "Clays Tipping Service",
     "decimals": 18,
     "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/CTS.png"
-  }
+  }, 
+    "chainId": 1666600000, 
+    "address": "0x8D4F19bec883Ba20F4f295706C53F760Cd0BC2B0", 
+    "symbol": “MOONI”, 
+    "name": “Moonity”, 
+    "decimals": 9, 
+    "logoURI": "https://imgur.com/a/jcR1o6c" 
 ]
